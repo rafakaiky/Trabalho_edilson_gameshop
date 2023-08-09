@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    width: 100%;
+    background-color: rgb(33, 33, 235);
+    display: flex;
+    justify-content: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.container-logo{
+    display: flex;
+    align-items: center;
+    margin-right: 1200px;
+    color: white;
+}
+a{
+    margin: 10px;
+    display: flex;
+
+    
+}
+.menu li{
+    display: inline-block;
+     
+
+}
+.menu li a{
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 30px;
+    color: white;
+   
+}
+
+.menuItem {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  
+  .menuItem1 {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+
+  }
+
+  .menuItem1:hover {
+    background-color: #5487d3;
+  }
+
+  
+  .menuItem:hover {
+    background-color: #5487d3;
+  }
+
+  h3{
+    margin-top: 15px;
+}
+
+
+.formulario{
+margin-left: 200px;
+}
+
+
+
+
+.buttonItem {
+   width: 173px;
+   color: white;
+   background-color: blue;
+}
+
+.buttonItem:hover{
+    background-color: coral;
+}
+
+
+#loja {
+    margin-left: 200px;
+    margin-top: -230px;
+}
+#texto{
+    margin-left: 870px;
+    margin-top: 60px;
+    margin-right: 200px;
+}
+.icons{
+    height: 25px;
+}
+#rede {
+    margin-top: 50px;
+    height: 20px;
+    margin-left: 800px;
+    margin-right: 200 px;
+}
+#social{
+    height: 25px;
+}
+body{
+    color: blue;
+}    
+#endereço{
+    margin-left: 1400px;
+    height: 5px;
+}
+
+
